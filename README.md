@@ -28,7 +28,7 @@ Jumper Wires
 
 
 📜 Documentation
-📄 Full Project Report (PDF)
+📄[ Full Project Report](report.docx)
 
 
 💾 Code Files
