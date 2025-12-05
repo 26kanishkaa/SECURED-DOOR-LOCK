@@ -6,7 +6,7 @@ This project is a smart electronic security system designed to control and restr
 ![Block Diagram](blockdiagram.jpeg)
 
 🔌 Hardware Diagram
-Hardware Diagram
+[Hardware Diagram](Hardware.jpeg)
 
 🔧 Features
 Digital authentication (Password/RFID/Fingerprint)
