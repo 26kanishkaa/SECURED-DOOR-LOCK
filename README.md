@@ -24,9 +24,8 @@ Buzzer / LED Indicators
 Jumper Wires
 
 💻 Software Requirements
-Arduino IDE
-Embedded C / C++
-Proteus / Tinkercad (for simulation – optional)
+[Arduino IDE](code.pdf)
+
 
 📜 Documentation
 📄 Full Project Report (PDF)
