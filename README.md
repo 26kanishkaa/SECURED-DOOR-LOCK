@@ -29,7 +29,7 @@ Jumper Wires
 
 📜 Documentation
 📄 Full Project Report (PDF)
-👉 Click Here to View Documentation
+
 
 💾 Code Files
 🔹 Microcontroller Code:
